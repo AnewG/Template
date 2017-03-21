@@ -4,4 +4,4 @@
 
 支付宝或微信
 
-![pay](https://raw.githubusercontent.com/AnewG/template/master/pay.png)
+![pay](https://raw.githubusercontent.com/AnewG/template/master/pay.png?v=123)
