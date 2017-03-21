@@ -4,4 +4,4 @@
 
 支付宝或微信
 
-![alipay](https://raw.githubusercontent.com/AnewG/template/master/alipay.png) ![wechat](https://raw.githubusercontent.com/AnewG/template/master/wechat.png)
+![pay](https://raw.githubusercontent.com/AnewG/template/master/pay.png)
